@@ -15,9 +15,15 @@ export const translations = {
       title: 'Our Product Categories',
       subtitle: 'Premium consumer goods from trusted suppliers worldwide',
       categories: {
-        electronics: 'Electronics & Gadgets',
-        fashion: 'Fashion & Accessories',
-        home: 'Home & Lifestyle',
+     
+        "cheese": "Cheese",
+        "fruits": "Fruits",
+        "legumes": "Legumes",
+        "seeds": "Seeds",
+        "pickles": "Pickles",
+        "naturalOils": "Natural Oils",
+        "Olives": "Olives",
+        "vegetables": "Vegetables",
       },
     },
     productDetail: {
@@ -56,9 +62,17 @@ export const translations = {
       title: 'فئات منتجاتنا',
       subtitle: 'سلع استهلاكية فاخرة من موردين موثوقين حول العالم',
       categories: {
-        electronics: 'الإلكترونيات والأجهزة',
-        fashion: 'الموضة والاكسسوارات',
-        home: 'المنزل ونمط الحياة',
+        // electronics: 'الإلكترونيات والأجهزة',
+        // fashion: 'الموضة والاكسسوارات',
+        // home: 'المنزل ونمط الحياة',
+        "cheese": "الأجبان",
+        "legumes": "البقوليات",
+        "seeds": "البذور",
+        "vegetables": "الخضروات",
+        "fruits": "الفواكه",
+        "pickles": "المخللات",
+        "Olives": "الزيوت",
+        "naturalOils": "زيوت طبيعية"
       },
     },
     productDetail: {

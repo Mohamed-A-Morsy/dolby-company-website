@@ -21,7 +21,7 @@ export default function ContactPage() {
       icon: Phone,
       titleEn: 'Phone',
       titleAr: 'الهاتف',
-      value: ['+20221922781', '+201000193434'],
+      value: [' 0221922781', '+201000193434'],
 
     },
     {
