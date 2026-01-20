@@ -49,7 +49,7 @@ export function ThemeProvider({ children }: { children: ReactNode }) {
 
   // Prevent hydration mismatch
   if (!mounted) {
-    return <>{children}</>;
+    return null;
   }
 
   return (

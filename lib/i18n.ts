@@ -34,14 +34,7 @@ export const translations = {
     },
     contact: {
       title: 'Get in Touch',
-      subtitle: 'We\'d love to hear from you',
-      form: {
-        name: 'Full Name',
-        email: 'Email Address',
-        subject: 'Subject',
-        message: 'Message',
-        submit: 'Send Message',
-      },
+  
     },
     footer: {
       copyright: 'All rights reserved',
